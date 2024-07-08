@@ -1,0 +1,17 @@
+a{
+    color : red
+}
+a{text-decoration: none;}
+
+th, td {
+    border : 1px solid black;
+    border-collapse : collapse;
+    padding-left: 20px;
+    padding-right : 20px;
+    padding-top : 10px;
+    padding-bottom : 10px;
+}
+
+th {
+    background-color:aqua;
+}
