@@ -1,0 +1,106 @@
+body {
+    background-color: whitesmoke;
+}
+
+.AdishU{
+    height : 100%;
+    width : 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-stretch : ultra-expanded;
+}
+
+.Welcome {
+    height : 10px;
+    width : 100%;
+    float : center;
+    padding-left: 550px;
+}
+
+.PhoneNumber {
+    height : 50px;
+    width : 250px;
+    float : right;
+    background-color: rgb(145, 216, 212);
+    border-style : solid;
+    border-width: 2px;
+    border-radius: 30px;
+    padding-left: 90px;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.EmailAddress {
+    height : 50px;
+    width : 300px;
+    float : left;
+    background-color: rgb(145, 216, 212);
+    border-style : solid;
+    border-width: 2px;
+    border-radius: 30px;
+    padding-left: 90px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.AdditionalInfo{
+    background-color: rgb(170, 181, 192);
+        text-align: center;
+        height: 100%;
+        width: 500px;
+        float: right;
+}
+
+.CertificatesHeading {
+    background-color: rgb(216, 216, 215);
+    height : 100%;
+    width : 1000px;
+    float : left;
+}
+
+.CertificateNames {
+    height : 100%;
+    width : 100%;
+    padding-left: 30px;
+    padding-top: 90px;
+}
+
+.AcquiredFrom {
+    height : 100%;
+    width : 100%;
+    margin-left: 550px;
+    margin-top: -515px;
+    padding-bottom: 10px;
+}
+
+.EducationHeading {
+    background-color:rgb(216, 216, 215);
+    height : 100%;
+    width : 1000px;
+    float : left;
+}
+
+.InstitutionName {
+    height : 100%;
+    width : 100%;
+    padding-left: 30px;
+    padding-top: 90px;
+}
+
+.Year {
+    height : 100%;
+    width : 100%;
+    margin-left: 700px;
+    margin-top: -210px;
+    padding-bottom: 10px;
+}
+
+h1 {font-size:xxx-large;}
+p1 {font-size: large;}
+p2 {font-size: large;}
+h2 {text-align: left;
+padding-left: 50px;}
+li {text-align: left;
+padding : 10px}
+
+a{text-decoration: none;}
